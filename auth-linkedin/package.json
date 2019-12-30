@@ -1,0 +1,21 @@
+{
+  "name": "tashboard-imp-s3logs",
+  "version": "0.0.0",
+  "description" : "Lamba node.js for importing S3 access logs from an S3 bucket",
+  "contributors": [
+    { 
+      "name" : "Martin Croker" , 
+      "email" : "mcroker@gmail.com" , 
+      "url" : "https://martincroker.wordpress.com/"
+    }
+  ],
+  "license": "Apache-2.0",
+  "repository" :
+    { 
+      "type" : "git" ,
+       "url" : "https://github.com/mcroker/tashboard.git"
+    },
+  "dependencies": {
+    "clf-parser": "0.0.2"
+  }
+}

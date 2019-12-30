@@ -1,0 +1,15 @@
+{
+  "esDomain": {
+    "region": "eu-west-1",
+    "endpoint": "https://search-my-elasticsearch-endpoint.eu-west-1.es.amazonaws.com",
+    "index": "socalprofiles",
+    "doctype": "userstats"
+  },
+  "twittercreds": {
+    "consumer_key": "",
+    "consumer_secret": "",
+    "access_token_key": "",
+    "access_token_secret": ""
+  },
+  "users": [ "twitter1", "twitter2" ]
+}

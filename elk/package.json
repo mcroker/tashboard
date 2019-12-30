@@ -20,11 +20,6 @@
     "twitter": "1.2.5",
     "node-linkedin": "0.5.1",
     "bunyan": "*",
-    "splunk-bunyan-logger": "0.8.0",
-    "aws-sdk": "*",
-    "bunyan-elasticsearch": "*",
-    "sentiment": "*",
-    "node-event-hub-stream": "*",
-    "utf8": "*"
+    "splunk-bunyan-logger": "0.8.0"
   }
 }
